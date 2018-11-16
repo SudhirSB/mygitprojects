@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testSuite1" duration-ms="10196" started-at="2018-11-15T19:53:51Z" finished-at="2018-11-15T19:54:01Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="10196" started-at="2018-11-15T19:53:51Z" finished-at="2018-11-15T19:54:01Z">
+      <class name="test.GooglePageTitleTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:test.GooglePageTitleTest@246ae04d]" name="before" is-config="true" duration-ms="6254" started-at="2018-11-15T19:53:51Z" finished-at="2018-11-15T19:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="f()[pri:0, instance:test.GooglePageTitleTest@246ae04d]" name="f" duration-ms="3044" started-at="2018-11-15T19:53:57Z" finished-at="2018-11-15T19:54:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="after()[pri:0, instance:test.GooglePageTitleTest@246ae04d]" name="after" is-config="true" duration-ms="855" started-at="2018-11-15T19:54:00Z" finished-at="2018-11-15T19:54:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- test.GooglePageTitleTest -->
+    </test> <!-- test1 -->
+  </suite> <!-- testSuite1 -->
+</testng-results>
